@@ -1,0 +1,8 @@
+## Author: ej
+## Interface: 11500
+## Version: 1.0.0
+## Title: Hello UI Scale
+## Notes: Set UI scale for 2560 x 1440 resolution
+## OptionalDeps: ZoxeTweaks
+
+hello_uiscale.lua

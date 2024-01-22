@@ -1,6 +1,6 @@
 # hello_uiscale
 
-World of Warcraft addon that sets global UI scale for 2560 x 1440 resolution. Created for the Season of Discovery client.
+World of Warcraft addon that sets global UI scale based on physical screen size. Created for the Season of Discovery client.
 
 ## install
 

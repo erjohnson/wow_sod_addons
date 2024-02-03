@@ -1,0 +1,2 @@
+TargetFrameHealthBar:SetReverseFill(true)
+TargetFrameManaBar:SetReverseFill(true)
